@@ -5,7 +5,7 @@
 - [Ivan Ryzhankow](https://github.com/ToCatharsis)
 - [Alina Yermakova](https://github.com/AlinaYermakova)
 
-# Healthy-Lungs 🫁 🌳🌲🌳 🌎
+# Healthy-Lungs 🌬️ 🌳🌲🌳 🌎
 A web application that allows the user to check air pollution in his area and selected location (course: web application programming). Our product intends to create a site that would allow for instant pollution of the air checking without searching for helpful information from third-party sites.
 
 <p align="center">
